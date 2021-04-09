@@ -1,5 +1,7 @@
 # vchat
 
+### This is a very basic chat app that I made using vue.js
+
 ## Project setup
 ```
 npm install
